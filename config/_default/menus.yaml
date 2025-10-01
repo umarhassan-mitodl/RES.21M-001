@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 013ba811-7008-4356-8858-e5d3a166eba0
+  name: Heavy Metal 101 Website
+  pageRef: /external-resources/heavy-metal-101-website_013ba811-7008-4356-8858-e5d3a166eba0
+  weight: 10
+- identifier: 0bc6f43d-c3b4-44ea-8b57-4057042c1523
+  name: Class Archives
+  pageRef: /external-resources/class-archives_0bc6f43d-c3b4-44ea-8b57-4057042c1523
+  weight: 20
